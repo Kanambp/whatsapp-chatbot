@@ -19,7 +19,7 @@ export const stageFour = {
 
     return `🔔 *NEW REQUEST*🔔: \n\n📞 Client: +${
       phone[0]
-    } \n🧁 Flavors: *${desserts}* \n📍 Address:*${address}* \n🚚 Delivery fee: *to be confirmed*. \n💰 Value of cakes: *${
+    } \n🦸PROWESS: *${desserts}* \n📍 Address:*${address}* \n🚚 Delivery fee: *to be confirmed*. \n💰 Value of PROWESS COMMODITIES: *${
       total * 6
     },00 reais*. \n⏳ Delivery time: *50 minutes*. \n🛑 Details: *${message}*`;
   },
