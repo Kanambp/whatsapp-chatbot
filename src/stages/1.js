@@ -23,7 +23,7 @@ export const stageOne = {
       });
 
       msg +=
-        '\nTo view the cakes, *acesse*: https://wa.me/c/556884257619\n\n⚠️ ```ONLY ONE OPTION AT A TIME``` ⚠️\n*Enter OPTION referring to the product you want to order:*';
+        '\nTo view PROWESS PRODUCTS, *acesse*: https://wa.me/c/25414148625\n\n⚠️ ```ONLY ONE OPTION AT A TIME``` ⚠️\n*Enter OPTION referring to the product you want to be served:*';
       storage[from].stage = 2;
 
       return msg;
