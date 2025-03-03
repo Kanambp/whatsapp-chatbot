@@ -23,7 +23,7 @@ export const stageThree = {
 
     await client.sendText(
       message.from,
-      `🗒️ *ORDER SUMMARY*: \n\n🧁 Flavors: *${desserts}* \n🚚 Delivery fee: *to be confirmed*. \n📍 Address:*${message}* \n💰 Value of cakes: *${
+      `🗒️ *ORDER SUMMARY*: \n\n🦸PROWESS: *${desserts}* \n🚚 Delivery fee: *to be confirmed*. \n📍 Address:*${message}* \n💰 Value of PROWESS COMMODITIES: *${
         total * 6
       },00 reais*. \n⏳ Delivery time: *50 minutes*. \n\n` +
         '🔊 ```Now, inform the method of payment and if you will need change, please.```'
