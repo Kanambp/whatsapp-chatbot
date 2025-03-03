@@ -1,22 +1,25 @@
 export const menu = {
   1: {
-    description: ' AL Ain Milk',
-    price: 6,
+    description: 'PROWESS WIFI PACKAGES',
+    price: 
+      '3mbs 1000',
+      '4mbs 1500',
+      '8mbs 2000',
   },
   2: {
-    description: 'Apple',
-    price: 6,
+    description: 'PROWESS ACCESSORIES',
+    price: 'contact the owner',
   },
   3: {
-    description: 'Sugar',
-    price: 6,
+    description: 'PROWESS PACKING PACKAGES',
+    price: 'CONTACT OWNER',
   },
   4: {
-    description: 'Onion',
+    description: 'PROWESS ELECTRONICS',
     price: 6,
   },
   5: {
-    description: 'Tomato',
+    description: 'PROWESS WATER CANS',
     price: 6,
   },
 };
